@@ -1,6 +1,6 @@
 Name:		texlive-hvlogos
 Version:	63261
-Release:	1
+Release:	2
 Summary:	Print TeX-related names as logo
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hvlogos
