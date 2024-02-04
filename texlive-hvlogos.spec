@@ -1,5 +1,5 @@
 Name:		texlive-hvlogos
-Version:	68568
+Version:	69581
 Release:	1
 Summary:	Print TeX-related names as logo
 Group:		Publishing
