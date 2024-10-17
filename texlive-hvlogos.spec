@@ -3,7 +3,7 @@ Version:	69581
 Release:	1
 Summary:	Print TeX-related names as logo
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hvlogos
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hvlogos
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hvlogos.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hvlogos.doc.r%{version}.tar.xz
